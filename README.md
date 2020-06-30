@@ -1,2 +1,2 @@
 # Aromaticity-Classification
-Attempts to classify Aromatic compunds via images from PubChem
+Attempts to classify Aromatic compounds via images from PubChem
